@@ -12,7 +12,7 @@
 
 ## Building
 
-Log into the system: `docker run -v repo:/opt/repo/var-yocto -it var-yocto` then run `./build.sh`
+Log into the system: `docker run -v var-yocto:/opt/repo/var-yocto -it var-yocto` then run `./build.sh`
 
 ## Delete Everything
 
