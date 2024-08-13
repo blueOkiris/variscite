@@ -47,6 +47,7 @@ RUN     apt-get update \
                 libssl-dev \
                 libtool \
                 libyaml-dev \
+                linux-headers-generic \
                 locales \
                 lzop \
                 make \

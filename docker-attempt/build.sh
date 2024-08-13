@@ -3,5 +3,5 @@
 cd var-yocto
 
 source setup-environment build_xwayland
-bitbake fsl-image-qt6
+bitbake fsl-image-gui
 
