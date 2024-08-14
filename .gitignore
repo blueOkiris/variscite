@@ -2,3 +2,10 @@
 
 var-yocto/
 
+# Build Vagrant
+
+yocto/
+.vagrant/
+*.vdi
+*.log
+
